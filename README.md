@@ -3,9 +3,9 @@
 
 - 🔭 Ahora mismo estoy trabajando en un **Proyecto individual sobre videojuegos**
 
-- 🌱 Ahora mismo me interesa aprender sobre **Typescript**
+- 🌱 Ahora mismo me interesa **aprender sobre Typescript y ampliar mi conocimiento sobre librerías útiles**
 
-- 📫 Contactame en: **mail: luchogianoglio@gmail.com | LinkedIn: https://www.linkedin.com/in/luciano-gianoglio/**
+- 📫 Contactame! **mail: luchogianoglio@gmail.com | LinkedIn: https://www.linkedin.com/in/luciano-gianoglio/**
 
 - 📄 Tengo experiencia en dos campos: [Como Desarrollador Full-Stack, haciendo una pasantía para una Start-up y como Docente de Nivel Secundario.](Como Desarrollador Full-Stack, haciendo una pasantía para una Start-up y como Docente de Nivel Secundario.)
 
