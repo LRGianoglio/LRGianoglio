@@ -1,15 +1,15 @@
-<h1 align="center">Hola! Mi nombre es Luciano Gianoglio</h1>
-<h3 align="center">Desarrollador Full-Stack de Argentina y apasionado de los videojuegos.</h3>
+<h1 align="center">Hi! I'm Luciano Gianoglio</h1>
+<h3 align="center">A Full-Stack Developer from Argentina who reads a lot.</h3>
 
-- 🔭 Ahora mismo estoy trabajando en un **Proyecto individual sobre videojuegos**
+- 🔭 Right now I'm working on **an E-commerce in Next.js, as a practice**
 
-- 🌱 Ahora mismo me interesa **aprender sobre Typescript y ampliar mi conocimiento sobre librerías útiles**
+- 🌱 Right now I'm interested in **learning more about Typescript and Next.js**
 
-- 📫 Contactame! **mail: luchogianoglio@gmail.com | LinkedIn: https://www.linkedin.com/in/luciano-gianoglio/**
+- 📫 Contact me! **mail: luchogianoglio@gmail.com | LinkedIn: https://www.linkedin.com/in/luciano-gianoglio/**
 
-- 📄 Tengo experiencia en dos campos: [Como Desarrollador Full-Stack, haciendo una pasantía para una Start-up y como Docente de Nivel Secundario.](Como Desarrollador Full-Stack, haciendo una pasantía para una Start-up y como Docente de Nivel Secundario.)
+- 📄 I have background in: [As a Full-Stack Developer, interning at a Start-up, and as a High School Teacher.](As a Full-Stack Developer, interning at a Start-up, and as a Secondary School Teacher..)
 
-- ⚡ Sobre mí: **Ahora mismo me apasiona la programación, por lo que es donde quiero orientar mi carrera profesional, pero mi tiempo como docente me enseño lo enriquecedor y lo productivo que puede ser trabajar como equipo.**
+- ⚡ About me: **Right now, I'm passionate about programming, which is where I want to steer my professional career. However, my time as a teacher has taught me how enriching and productive teamwork can be.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
